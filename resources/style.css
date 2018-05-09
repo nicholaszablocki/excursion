@@ -2,6 +2,7 @@ body{
   font-family: verdana;
   background-color: black;
   text-align: center;
+  color: white;
 }
 h1{
   font-weight: normal;
@@ -21,4 +22,8 @@ h2{
 p{
   font-size: 21px;
   color: gray;
+}
+h3{
+  color: gray;
+  text-align: right;
 }
